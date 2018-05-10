@@ -1,0 +1,90 @@
+body{
+    color: black;
+}
+.head{
+    background-color: #FCDB00;
+}
+.logo_name{
+    font-size: 30px;
+    font-weight: bold;
+}
+.nav_text{}
+.nav_text ul li a{
+    padding: 30px 70px !important;
+    color: black !important;
+    font-weight: bold;
+}
+.nav_text ul li a:hover{
+    color: white !important;
+}
+.banner{
+    background-color: #FCDB00;
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+.ban_text{
+    margin-top: 40px;
+    margin-left: 15px;
+}
+.icon i{
+    color: black;
+}
+.icon i:hover{
+    color: white;
+}
+.custom_icon{
+    font-size: 50px;
+}
+.features{
+    margin-bottom: 60px;
+}
+.feature_icon i{
+    font-size: 40px;
+}
+.text_mar{
+    margin: 50px 0px;;
+}
+.footer_text h1{
+    color: #FCDB00;
+}
+.footer_form{
+    background-color: #000000;
+    color: white;
+}
+.footer_label{
+    width: 90%;
+    margin-left: 80px;
+}
+.footer_icon i{
+    font-size: 40px;
+    color:#FCDB00; 
+    padding: 20px 20px;
+}
+.btn_custom{
+    background-color:  #FCDB00;
+    padding: 8px 25px;
+    margin-left: 0px;
+}
+.foot_mar{
+    margin: 20px 0px;
+}
+.custom_form{
+    width: 70%;
+    padding:8px 8px;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+}
+.foot_data{
+    margin: 20px 0px;
+}
+.footer_menu{
+     background-color: #000000;
+     color: white;
+}
